@@ -1,0 +1,12 @@
+{
+  "name": "ai-news-radar",
+  "version": "1.0.0",
+  "description": "AI News Radar - High-quality AI/tech news aggregator",
+  "scripts": {
+    "build": "pip install -r requirements.txt && if [ -f feeds/follow.opml ]; then python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml; else python scripts/update_news.py --output-dir data --window-hours 24; fi",
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
