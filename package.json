@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AI News Radar - High-quality AI/tech news aggregator",
   "scripts": {
-    "build": "pip3 install --user --break-system-packages -r requirements.txt && if [ -f feeds/follow.opml ]; then python3 scripts/update_news.py --output-dir data --window-hours 24 --rss-opml feeds/follow.opml; else python3 scripts/update_news.py --output-dir data --window-hours 24; fi",
+    "build": "pip3 install --user --break-system-packages -r requirements.txt",
     "start": "python -m http.server 8080"
   },
   "keywords": [],
