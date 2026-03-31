@@ -7163,5 +7163,12 @@
   "Claude finds RCE in Vim and Emacs": "Claude 在 Vim 和 Emacs 中发现 RCE",
   "Axios compromised on NPM – Malicious versions drop remote access trojan": "Axios 受到 NPM 攻击——恶意版本会释放远程访问木马",
   "Artemis II is not safe to fly": "阿尔忒弥斯 II 号飞行不安全",
-  "Mad Bugs: Vim vs. Emacs vs. Claude": "Mad Bugs：Vim、Emacs 与 Claude"
+  "Mad Bugs: Vim vs. Emacs vs. Claude": "Mad Bugs：Vim、Emacs 与 Claude",
+  "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
+  "Letters to Sen. Ed Markey: six autonomous vehicle companies say remote assistants don't directly control vehicles; Tesla says its operators are allowed to do so (Aarian Marshall/Wired)": "致参议员埃德·马基的信：六家自动驾驶汽车公司表示，远程助手并不直接控制车辆；特斯拉表示其运营商可以这样做（Aarian Marshall/Wired）",
+  "Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’": "Business Insider 介绍 OpenAI 的“应用首席执行官”Fidji Simo",
+  "Salesforce announces an AI-heavy makeover for Slack, with 30 new features": "Salesforce 宣布对 Slack 进行人工智能改造，新增 30 项功能",
+  "Ordinary Lab Gloves May Have Skewed Microplastic Data": "普通实验室手套可能会扭曲微塑料数据",
+  "Super Micro Computer Investors Look for Exits": "超微型计算机投资者寻求退出",
+  "Forth VM and compiler written in C++ and Scryer Prolog": "用 C++ 和 Scryer Prolog 编写的 Forth VM 和编译器"
 }
