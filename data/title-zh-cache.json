@@ -11572,5 +11572,8 @@
   "UK Biobank health data keeps ending up on GitHub": "英国生物银行健康数据不断出现在 GitHub 上",
   "Gecko: a fast GLR parser with automatic syntax error recovery": "Gecko：具有自动语法错误恢复功能的快速 GLR 解析器",
   "How The Heck Does Shazam Work?": "Shazam 到底是如何运作的？",
-  "Modern rendering culling techniques": "现代渲染剔除技术"
+  "Modern rendering culling techniques": "现代渲染剔除技术",
+  "'We love you, and we want you to win' — OpenAI releases GPT-5.5 for ChatGPT": "“我们爱你，我们希望你获胜”——OpenAI 为 ChatGPT 发布了 GPT-5.5",
+  "Australia joins countries trialing Claude Mythos 'to ​make sure we are aware of emerging vulnerabilities'": "澳大利亚与其他国家一起试验克劳德神话，“以确保我们意识到新出现的漏洞”",
+  "TorchTPU: Running PyTorch Natively on TPUs at Google Scale": "TorchTPU：在 Google 规模的 TPU 上本地运行 PyTorch"
 }
