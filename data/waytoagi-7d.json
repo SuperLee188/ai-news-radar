@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-05-30T19:19:47.294450Z",
+  "generated_at": "2026-05-30T21:00:42.342378Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-30",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-05-30",
+      "title": "这篇文章分享了一套用Codex学习新知识的全新思路。这篇文章作者分享了为什么大多数人问 Codex 的问题是错的、如何用5 步把Codex从百科全书变成学习教练、如何设计最小的练习，真正教会你东西。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "最近，Anthropic 发布了 Claude Opus 4.8，同时带来了一个很多人还没有意识到其意义的新能力——Claude Code Dynamic Workflows（动态工作流）。也意味着 AI 编程长期存在的几个核心瓶颈——上下文污染、逻辑漂移、复杂任务失控——第一次看到了系统性的解决方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-30",
       "title": "作者在开发QQBot插件的过程中，深度钻研了OpenClaw的源码，也剖析了Hermes存在的串扰、架构等问题。透过种种不完美，作者拆解出两款产品在多通道适配、上下文管控、记忆管理、安全隔离等方面的工程设计思路。这篇文章给Agent 架构设计提供难得的一线参考。",
@@ -18,8 +28,18 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 25,
+  "count_7d": 27,
   "updates_7d": [
+    {
+      "date": "2026-05-30",
+      "title": "这篇文章分享了一套用Codex学习新知识的全新思路。这篇文章作者分享了为什么大多数人问 Codex 的问题是错的、如何用5 步把Codex从百科全书变成学习教练、如何设计最小的练习，真正教会你东西。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-30",
+      "title": "最近，Anthropic 发布了 Claude Opus 4.8，同时带来了一个很多人还没有意识到其意义的新能力——Claude Code Dynamic Workflows（动态工作流）。也意味着 AI 编程长期存在的几个核心瓶颈——上下文污染、逻辑漂移、复杂任务失控——第一次看到了系统性的解决方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-30",
       "title": "作者在开发QQBot插件的过程中，深度钻研了OpenClaw的源码，也剖析了Hermes存在的串扰、架构等问题。透过种种不完美，作者拆解出两款产品在多通道适配、上下文管控、记忆管理、安全隔离等方面的工程设计思路。这篇文章给Agent 架构设计提供难得的一线参考。",
